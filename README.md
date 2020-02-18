@@ -25,7 +25,7 @@ vscode + following plugins:
 16. visualstudioexptteam.vscodeintellicode
 
 ### Terminal 
-iterm2 + ohmyzsh + plugins
+iterm2 + ohmyzsh + plugins;
 follow this guide: https://gist.github.com/kevin-smets/8568070
 
 ### Productivity Apps
