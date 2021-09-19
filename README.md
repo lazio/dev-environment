@@ -10,7 +10,6 @@ vscode + following plugins:
 1. CoenraadS.bracket-pair-colorizer-2
 2. auchenberg.vscode-browser-preview
 3. streetsidesoftware.code-spell-checker
-4. msjsdiag.debugger-for-chrome
 5. dai-shi.vscode-es-beautifier
 6. dbaeumer.vscode-eslint
 7. codezombiech.gitignore
@@ -21,7 +20,6 @@ vscode + following plugins:
 12. silvenon.mdx
 13. esbenp.prettier-vscode
 14. syler.sass-indented
-15. tabnine.tabnine-vscode
 16. visualstudioexptteam.vscodeintellicode
 
 ### Terminal 
