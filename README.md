@@ -23,8 +23,8 @@ vscode + following plugins:
 16. visualstudioexptteam.vscodeintellicode
 
 ### Terminal 
-iterm2 + ohmyzsh + plugins;
-follow this guide: https://gist.github.com/kevin-smets/8568070
+1. iterm2 + ohmyzsh + plugins; follow this guide: https://gist.github.com/kevin-smets/8568070
+2. slide down terminal window https://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen
 
 ### Productivity Apps
 1. Contexts (https://contexts.co) - for fast switching between windows
